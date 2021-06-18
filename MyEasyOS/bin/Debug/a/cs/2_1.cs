@@ -1,0 +1,1 @@
+test a=new test(10,20);
